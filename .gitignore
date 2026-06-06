@@ -1,0 +1,7 @@
+build/
+worksphere
+*.o
+*.out
+*.exe
+.DS_Store
+.vscode/settings.json
